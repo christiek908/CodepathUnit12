@@ -1,5 +1,5 @@
 # CodepathUnit12
-Capstone CTF
+Capstone CTF - IST 5930 Web Security
 
 Greenland
 *CTF{FURTIVE_ANTIQUARIAN_CHARNEL}
@@ -52,3 +52,7 @@ T0Do
 tHi
 I$nT
 password: game consoles (atari, switch, gamecube)
+
+CANADA
+*CTF{And_You_Thought_It_Was_In_The_Picture}
+https://ctf-wiki.mahaloz.re/misc/traffic/data/
